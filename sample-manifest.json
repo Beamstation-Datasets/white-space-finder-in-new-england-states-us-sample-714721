@@ -1,12 +1,12 @@
 {
-  "export_job_id": "311c4be7-4f85-4fed-bca9-3de19adab182",
+  "export_job_id": "ec3c3c8b-4889-4f29-a3bb-784a8c2339b2",
   "id_short": 714721,
-  "published_at": "2026-04-23T19:12:38Z",
+  "published_at": "2026-04-30T19:16:44Z",
   "repo_name": "white-space-finder-in-new-england-states-us-sample-714721",
   "sample_asset_name": "beamstation_714721_food_and_drink-xx-all_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/714721/beamstation_714721_food_and_drink-xx-all_SAMPLE_DIST.csv",
-  "sample_records": 16,
-  "sample_sha256": "cae4c7b7aee358b96182e5edb320de4fe63ced6d9a6b3a68af5064873597d560",
-  "sample_size_bytes": 75627,
-  "total_records": 162
+  "sample_records": 21,
+  "sample_sha256": "78c2c71c2d280df1348e366af16ec40e4a7b9a75c4659e71f159e875d4366066",
+  "sample_size_bytes": 91020,
+  "total_records": 217
 }
